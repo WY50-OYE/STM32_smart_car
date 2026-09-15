@@ -1,0 +1,19 @@
+# Keil MDK
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.lst
+*.map
+*.dep
+*.sct
+Objects/
+Listings/
+Debug/
+Release/
+DebugConfig/
+
+# Windows系统文件
+Thumbs.db
+.DS_Store
